@@ -1,0 +1,54 @@
+.. automodule:: fstree.node
+   :members:
+   :undoc-members:
+
+Tree
+----
+
+.. automodule:: fstree.tree
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Models
+------
+
+.. automodule:: fstree.models
+   :members:
+   :undoc-members:
+
+Backends
+--------
+
+Base
+~~~~
+
+.. automodule:: fstree.backends.base
+   :members:
+   :undoc-members:
+
+Posix/Local
+~~~~~~~~~~~
+
+.. automodule:: fstree.backends.posix
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Other modules
+-------------
+
+.. automodule:: fstree.utils
+   :members:
+   :undoc-members:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
